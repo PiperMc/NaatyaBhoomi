@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p {
+    font-family: 'Cinzel Decorative', Times;
+    padding: 50px;
+    text-align: center;
+    font-size: medium;
+}
+h3 {
+    text-align:left;
+    font-size: 30px;
+
+}
+h4 {
+    text-align: left;
+    font-size: 35;
+
+}
+
+.environment_li
+{
+  margin-top: 13px;
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+  border-radius: 25px;
+  height: 250px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
+
+
+#icon {
+    width: 300;
+    height: 300;
+    border-radius: 100%;
+    left: 10px;
+    position: absolute;
+}
+
+.nav navbar-nav {
+    color: black;
+    background-color: black;
+}
+
+.navbar-brand {
+    color: black;
+    background-color: black;
+}
+
+.navbar-inverse {
+    color: black;
+    background-color: black;
+}
+h2 {
+    text-align: left;
+    font-size: 20px;
+}
+
+
+
